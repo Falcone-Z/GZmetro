@@ -11,7 +11,7 @@
 
 ## 2. 文件说明
 
-**以下为用Python爬虫https://github.com/lr555/GZmetro_crawler收集到的广州地铁数据**
+**以下为用Python爬虫收集到的广州地铁数据**https://github.com/lr555/GZmetro_crawler
 
 1. 12_24_stations_new.txt：站点及其属于的线路
 2. 12_22_near_stations.txt：相邻站点的距离等数据
